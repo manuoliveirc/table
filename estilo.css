@@ -8,3 +8,7 @@ table tr td {
 table {
     border-collapse: collapse;
 }
+
+section{
+    height:100vh;
+}
